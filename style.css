@@ -10,3 +10,31 @@ a.contact {color: darkred;};
 body,
 section {background-color: deeppink;}
 #aboutus {background-color: deeppink;}
+
+.square1 {
+    width: 120px;
+    height: 120px;
+    background-color: firebrick;
+    display: inline-block;
+}
+
+.square2 {
+    width: 120px;
+    height: 120px;
+    background-color: rgb(51, 178, 34);
+    display: inline-block;
+}
+
+.square3 {
+    width: 120px;
+    height: 120px;
+    background-color: rgb(84, 34, 178);
+    display: inline-block;
+}
+
+.square4 {
+    width: 120px;
+    height: 120px;
+    background-color: rgb(255, 238, 0);
+    display: inline-block;
+}

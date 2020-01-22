@@ -38,3 +38,22 @@ section {background-color: deeppink;}
     background-color: rgb(255, 238, 0);
     display: inline-block;
 }
+
+
+.square5 {
+    width: 120px;
+    height: 120px;
+    border: 10px solid red;
+}
+
+.square6 {
+    width: 120px;
+    height: 120px;
+    border: 10px solid greenyellow;
+}
+
+.square7 {
+    width: 120px;
+    height: 120px;
+    border: 10px solid orchid;
+}

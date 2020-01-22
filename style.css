@@ -57,3 +57,12 @@ section {background-color: deeppink;}
     height: 120px;
     border: 10px solid orchid;
 }
+
+.send { 
+    height: 50px; 
+    width: 100px; 
+    background-color: rgb(238, 255, 0); 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px; color: darkblue; 
+    font-weight: bold;
+}

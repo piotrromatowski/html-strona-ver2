@@ -6,3 +6,7 @@ a.about {color: blue;}
 a.skills {color: chocolate;}
 a.portfolio {color: darkgreen;}
 a.contact {color: darkred;};
+
+body,
+section {background-color: deeppink;}
+#aboutus {background-color: deeppink;}
